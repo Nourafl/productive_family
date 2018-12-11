@@ -1,7 +1,7 @@
 ## README
 # Group Team :
 * Thekra Alouis
-* Nora Alsubei
+* Nora Alsubaie 
 * Haya Almosa
 * Dalal Saeed
 
